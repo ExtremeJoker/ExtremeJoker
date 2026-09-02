@@ -8,11 +8,11 @@ Aspiring blue team analyst with a purple team mindset. I believe that understand
 - Research grounded in past literature and case studies
 
 ## 🧰 Tools
-**Environment:** Kali Linux, Windows, MobaXterm
-**Forensics & Investigation:** FTK Imager, Bulk Extractor, ExifTool, HxD, Strings, HashMyFiles, Regshot, Process Explorer, Process Monitor
-**Scanning & Exploitation:** Nmap, Masscan, Hydra, Metasploit
-**Scripting:** Bash, PowerShell
-**SIEM & Log Analysis:** ELK Stack, Splunk
+- **Environment:** Kali Linux, Windows, MobaXterm
+- **Forensics & Investigation:** FTK Imager, Bulk Extractor, ExifTool, HxD, Strings, HashMyFiles, Regshot, Process Explorer, Process Monitor
+- **Scanning & Exploitation:** Nmap, Masscan, Hydra, Metasploit
+- **Scripting:** Bash, PowerShell
+- **SIEM & Log Analysis:** ELK Stack, Splunk
 
 ## 📂 Projects
 - [Automated Recon & Pentesting Toolkit (Part 1 of 3)](https://github.com/Extremejoker/your-repo-name) — Bash-based automation of scanning, enumeration, and credential attack workflows using Nmap, Masscan, and Hydra.
