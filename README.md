@@ -1,7 +1,5 @@
 ## Hi Rapheal here 👋
 Aspiring blue team analyst with a purple team mindset. I believe that understanding offense is what makes defense effective. I am drawn to threat intelligence and how it plays out at both the organizational and geopolitical scale, and I enjoy the investigative side of security most: digging into a case, tracing what happened, and working toward resolution.
-<!--
-**ExtremeJoker/ExtremeJoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## 🛠️ Skills
 - Analysis & Investigation
@@ -21,4 +19,4 @@ Aspiring blue team analyst with a purple team mindset. I believe that understand
 
 ## 🔗 Connect
 [LinkedIn](https://www.linkedin.com/in/rapheal-lee-5937a31aa)
--->
+
