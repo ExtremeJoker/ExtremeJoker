@@ -1,16 +1,24 @@
-## Hi there 👋
-
+## Hi Rapheal here 👋
+Aspiring blue team analyst with a purple team mindset. I believe that understanding offense is what makes defense effective. I am drawn to threat intelligence and how it plays out at both the organizational and geopolitical scale, and I enjoy the investigative side of security most: digging into a case, tracing what happened, and working toward resolution.
 <!--
 **ExtremeJoker/ExtremeJoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Analysis & Investigation
+- Coding & Scripting
+- Linking incident impact from micro to macro (organizational to geopolitical) level
+- Research grounded in past literature and case studies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🧰 Tools
+**Environment:** Kali Linux, Windows, MobaXterm
+**Forensics & Investigation:** FTK Imager, Bulk Extractor, ExifTool, HxD, Strings, HashMyFiles, Regshot, Process Explorer, Process Monitor
+**Scanning & Exploitation:** Nmap, Masscan, Hydra, Metasploit
+**Scripting:** Bash, PowerShell
+**SIEM & Log Analysis:** ELK Stack, Splunk
+
+## 📂 Projects
+- [Automated Recon & Pentesting Toolkit (Part 1 of 3)](https://github.com/Extremejoker/your-repo-name) — Bash-based automation of scanning, enumeration, and credential attack workflows using Nmap, Masscan, and Hydra.
+
+## 🔗 Connect
+[LinkedIn](https://www.linkedin.com/in/rapheal-lee-5937a31aa)
 -->
