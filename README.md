@@ -15,7 +15,7 @@ Aspiring blue team analyst with a purple team mindset. I believe that understand
 - **SIEM & Log Analysis:** ELK Stack, Splunk
 
 ## 📂 Projects
-- [Automated Recon & Pentesting Toolkit (Part 1 of 3)](https://github.com/Extremejoker/your-repo-name) — Bash-based automation of scanning, enumeration, and credential attack workflows using Nmap, Masscan, and Hydra.
+- [Automated Recon & Pentesting Toolkit (Part 1 of 3)](https://github.com/ExtremeJoker/Automated_PenProject) — Bash-based automation of scanning, enumeration, and credential attack workflows using Nmap, Masscan, and Hydra.
 - [Automated Log Recon Toolkit](https://github.com/ExtremeJoker/LogRecon_Linux)— Python-based automation of Linux auth.log analysis, authentication event extraction, IP geolocation, and investigation timestamp logging.
 
 ## 🔗 Connect
