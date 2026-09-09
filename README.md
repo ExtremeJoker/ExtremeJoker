@@ -9,7 +9,7 @@ Aspiring blue team analyst with a purple team mindset. I believe that understand
 
 ## 🧰 Tools
 - **Environment:** Kali Linux, Windows, MobaXterm
-- **Forensics & Investigation:** Autoruns, CFF Explorer, FTK Imager, Bulk Extractor, ExifTool, HxD, Strings, HashMyFiles, Regshot, Process Explorer, Process Monitor, Wireshark
+- **Forensics & Investigation:** Autoruns, CFF Explorer, FTK Imager, Bulk Extractor, ExifTool, HxD, HashMyFiles, Network Miner, Process Explorer, Process Monitor, Regshot, Strings, Wireshark
 - **Scanning & Exploitation:** Nmap, Masscan, Hydra, Metasploit
 - **Scripting:** Bash, PowerShell, Python
 - **SIEM & Log Analysis:** ELK Stack, Splunk
