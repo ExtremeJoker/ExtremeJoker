@@ -16,7 +16,7 @@ Aspiring blue team analyst with a purple team mindset. I believe that understand
 
 ## 📂 Projects
 - [Automated Recon & Pentesting Toolkit (Part 1 of 3)](https://github.com/ExtremeJoker/Automated_PenProject) — Bash-based automation of scanning, enumeration, and credential attack workflows using Nmap, Masscan, and Hydra.
-- [Memory Analysis Tool – Automated (Part 2 of 3)](https://github.com/ExtremeJoker/Memory_Analysis_Tool_Auto) - Bash-based automation tool for carving files from memory images, streamlining the extraction and recovery process during forensic analysis. Built as part of a multi-stage memory analysis toolkit.
+- [Memory Analysis Tool – Automated (Part 2 of 3)](https://github.com/ExtremeJoker/Memory_Analysis_Tool_Auto) - Bash-based automation tool for carving files from memory images, streamlining the extraction and recovery process during forensic analysis. Built as part of a multi-stage memory analysis toolkit. NOTE:Independent from Part 1 of 3
 - [Automated Log Recon Toolkit](https://github.com/ExtremeJoker/LogRecon_Linux)— Python-based automation of Linux auth.log analysis, authentication event extraction, IP geolocation, and investigation timestamp logging.
 - [Cross-Platform System Triage Toolkit](https://github.com/ExtremeJoker/Basic_SysTriage_Automation.git) — Bash and PowerShell-based automation of initial security triage across Linux and Windows, including network enumeration, MAC vendor identification, resource monitoring, and large/recently modified file detection
 
