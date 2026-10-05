@@ -1,5 +1,7 @@
 ## Hi Rapheal here 👋
-Aspiring blue team analyst with a purple team mindset. I believe that understanding offense is what makes defense effective. I am drawn to threat intelligence and how it plays out at both the organizational and geopolitical scale, and I enjoy the investigative side of security most: digging into a case, tracing what happened, and working toward resolution.
+Aspiring cybersecurity professional with a blue team focus and a purple team mindset. I believe understanding how attacks work helps me build more effective defenses.
+
+I enjoy both investigating threats and building the systems that support security operations—from configuring networks and security tools to writing scripts and automating repetitive work. I am particularly drawn to threat intelligence and how it connects technical activity with organizational risk and geopolitical developments.The investigative side of security motivates me most: digging into a case, tracing what happened, and working toward resolution. I also enjoy researching attack techniques and documenting findings, detection opportunities, and defensive lessons in a growing knowledge base.
 
 ## 🛠️ Skills
 - Analysis & Investigation
